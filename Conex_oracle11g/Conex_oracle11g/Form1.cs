@@ -2,6 +2,8 @@
 using System;
 using System.Data.OracleClient;
 
+
+
 namespace Conex_oracle11g
 {
     public partial class Form1 : Form

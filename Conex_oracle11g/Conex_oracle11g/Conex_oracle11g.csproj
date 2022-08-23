@@ -14,8 +14,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccessDTC">
+      <HintPath>..\..\..\..\..\Desktop\sa\odp.net\managed\x64\Oracle.ManagedDataAccessDTC.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccessIOP">
+      <HintPath>..\..\..\..\..\Desktop\sa\odp.net\managed\x64\Oracle.ManagedDataAccessIOP.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data.OracleClient">
-      <HintPath>..\..\..\..\Desktop\oracle y dll - by Edark\System.Data.OracleClient.dll</HintPath>
+      <HintPath>..\..\..\..\..\Desktop\oracle y dll - by Edark\System.Data.OracleClient.dll</HintPath>
     </Reference>
   </ItemGroup>
 
