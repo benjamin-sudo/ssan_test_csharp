@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\bin\Debug\ServicioLoop.exe.config
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\bin\Debug\ServicioLoop.exe
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\bin\Debug\ServicioLoop.pdb
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.ProjectInstaller.resources
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.exe
+C:\Users\LENOVO\source\repos\ServicioLoop\ServicioLoop\obj\Debug\ServicioLoop.pdb

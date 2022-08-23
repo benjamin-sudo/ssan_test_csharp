@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\test_vs\test_vs\bin\Debug\net6.0\test_vs.exe
+C:\Users\LENOVO\source\repos\test_vs\test_vs\bin\Debug\net6.0\test_vs.deps.json
+C:\Users\LENOVO\source\repos\test_vs\test_vs\bin\Debug\net6.0\test_vs.runtimeconfig.json
+C:\Users\LENOVO\source\repos\test_vs\test_vs\bin\Debug\net6.0\test_vs.dll
+C:\Users\LENOVO\source\repos\test_vs\test_vs\bin\Debug\net6.0\test_vs.pdb
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.dll
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\refint\test_vs.dll
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.pdb
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\test_vs.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\test_vs\test_vs\obj\Debug\net6.0\ref\test_vs.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\bin\Debug\net6.0\Keylogger3.exe
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\bin\Debug\net6.0\Keylogger3.deps.json
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\bin\Debug\net6.0\Keylogger3.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\bin\Debug\net6.0\Keylogger3.dll
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\bin\Debug\net6.0\Keylogger3.pdb
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.dll
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\refint\Keylogger3.dll
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.pdb
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\Keylogger3.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Keylogger3\Keylogger3\obj\Debug\net6.0\ref\Keylogger3.dll
