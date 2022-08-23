@@ -1114,11 +1114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\ssan_test_csharp\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
       "projectName": "Conex_oracle11g",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\ssan_test_csharp\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Conex_oracle11g\\Conex_oracle11g\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\ssan_test_csharp\\Conex_oracle11g\\Conex_oracle11g\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qNI+WVsFAjojzyA+o2FM9aoQsLprWQlp+/yrL6j9UP5wV6DEwYLKG+AwTgejZ8qs/1CZpQnmhf4M9EUL6W5UBA==",
+  "dgSpecHash": "7ZV0aLS4fd980V0Zy43hZGFkqMX4RbRP+LwsKl2k5ynWCCgUGKSbr+Ywec0Wo+eJ9BZLlohiwrRkhS01yjH5tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Source\\Repos\\ssan_test_csharp\\Conex_oracle11g\\Conex_oracle11g\\Conex_oracle11g.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

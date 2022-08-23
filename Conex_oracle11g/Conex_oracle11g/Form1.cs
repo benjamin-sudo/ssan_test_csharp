@@ -24,10 +24,9 @@ namespace Conex_oracle11g
             try {
                 con.Open();
                 label1.Text += "\n Conexion exitosa";
-            }
-            catch(Exception ex) {
+            } catch(Exception ex) {
                 label1.Text += "\n error -> " + ex.Message;
-        }  finally{ 
+            }  finally{ 
                 con.Close();
                 label1.Text += "\n Se desconecto";
             }
