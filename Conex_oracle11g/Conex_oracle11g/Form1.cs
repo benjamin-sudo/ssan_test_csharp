@@ -14,7 +14,6 @@ namespace Conex_oracle11g
             InitializeComponent();
         }
 
-
         private void button1_Click(object sender, EventArgs e)
         {
             String @strconexion = "DATA SOURCE=10.5.183.212:1521/DSSAN;USER ID=USUARIO_SISTEMAS;PASSWORD=USU2014RIOSSAN";
@@ -32,6 +31,11 @@ namespace Conex_oracle11g
                 con.Close();
                 label1.Text += "\n Se desconecto";
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
