@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\bin\Debug\net6.0-windows\WebCamSave.exe
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\bin\Debug\net6.0-windows\WebCamSave.deps.json
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\bin\Debug\net6.0-windows\WebCamSave.runtimeconfig.json
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\bin\Debug\net6.0-windows\WebCamSave.dll
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\bin\Debug\net6.0-windows\WebCamSave.pdb
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.Form1.resources
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.dll
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\refint\WebCamSave.dll
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.pdb
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\WebCamSave.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\WebCamSave\WebCamSave\obj\Debug\net6.0-windows\ref\WebCamSave.dll

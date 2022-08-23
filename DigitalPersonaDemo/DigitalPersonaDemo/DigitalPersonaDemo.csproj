@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CapturarHuella.cs" />
+    <Compile Remove="CapturarHuella.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="CapturarHuella.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="CaptureForm.Designer.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DPFPCtlXTypeLibNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPCtlXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPCtlXWrapperNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPCtlXWrapperNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPDevNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPEngNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPEngNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPGuiNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPGuiNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrXTypeLibNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPShrXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPVerNET">
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPVerNET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
